@@ -4,16 +4,16 @@
 
 Part 1: A Case Study Approach <div>
         - Week 1: Introduction to Jupyter and TuriCreate<div>
-        - Week 2: Regression - notes in pdf
-        - Week 3: Classification 
+        - Week 2: Regression - notes in pdf<div>
+        - Week 3: Classification <div>
                 - Concept Notes in pdf
                 - Coding notes in jupyter notebook
-        - Week 4: Clustering and Similarity
+        - Week 4: Clustering and Similarity<div>
                 - Concept Notes in pdf
                 - Coding notes in jupyter notebook
-        - Week 5: Deep Learning
+        - Week 5: Deep Learning<div>
                 - Concept Notes in pdf
                 - Coding notes in jupyter notebook
-        - Week 6: Recommender Systems
-        - Concept Notes in pdf
-        - Coding notes in jupyter notebook
+        - Week 6: Recommender Systems<div>
+                - Concept Notes in pdf
+                - Coding notes in jupyter notebook
